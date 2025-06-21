@@ -1,2 +1,2 @@
 # Atividade 2
-<h1> Atividaded que consiste em uso de laço for</h1>
+<h4> Atividade que consiste em uso de laço for</h4>
